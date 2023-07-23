@@ -12,10 +12,23 @@
   background: radial-gradient(circle at 50% 50%, #263b66 0%, rgba(38, 59, 102, 0) 70%);
 }
 
-@media (min-width: 768px) {
+@media (min-width: 640px) {
   body {
     overflow: hidden; /* Add a vertical scrollbar when content overflows */
     /* Alternatively, you can use 'overflow-y: auto;' to only show the scrollbar when necessary */
+  }
+}
+
+.fade-in{
+  animation: fade-in 1s forwards;
+}
+
+@keyframes fade-in {
+  from{
+    opacity: 0%;
+  }
+  to{
+    opacity: 100%;
   }
 }
 
