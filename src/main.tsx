@@ -15,7 +15,7 @@ const router = createBrowserRouter([
     element:<Home/>
   },
   {
-    path:"/projects",
+    path:"?/projects",
     element:<Projects/>
   }
 ],{basename:"/PortfolioV3"})
