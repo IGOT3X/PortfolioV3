@@ -17,7 +17,7 @@ const Home = () => {
                 <h1 className="font-semibold sm:text-[96px] text-[64px] pt-[24px]">Full-Stack <br /> developer;</h1>
                 <p className="text-green-300 font-semibold sm:text-[24px] pt-[8px] text-center sm:text-left px-[16px] sm:px-0">Proficient in crafting dynamic and user-centric web applications.</p>
                 <div className="w-[130px] h-[60px] mt-[17px] items-center justify-center flex sm:block">
-                    <a href="/?/projects" className="p-[10px] bg-black-100 text-[18px] font-semibold text-black-900 rounded-[8px] transition-[padding] ease-in-out duration-300 hover:p-[12px]">Projects</a>
+                    <a href="/PortfolioV3/?/projects" className="p-[10px] bg-black-100 text-[18px] font-semibold text-black-900 rounded-[8px] transition-[padding] ease-in-out duration-300 hover:p-[12px]">Projects</a>
                 </div>
                 <div className="flex flex-col items-center mx-auto gap-[17px] pt-[24px] sm:pt-0">
                     <p className="text-black-400 font-semibold">Technology stack:</p>
