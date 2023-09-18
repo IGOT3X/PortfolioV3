@@ -96,7 +96,7 @@ const Projects = () => {
                                 <img src="globe.svg" alt="" />
                             </a>
                         </div>
-                        <p className="text-black-200 pt-[10px]"><span className="text-green-300 font-semibold">World's most advanced</span> Twitch view bot which was capable of the following:</p>
+                        <p className="text-black-200 pt-[10px]"><span className="text-green-300 font-semibold">A website which provided personalized workouts for different kinds of sports.</p>
                         <div className="flex flex-col gap-[13px] pt-[34px]">
                             <div className="flex items-center gap-[15px]">
                                 <img src="check-circle.svg" alt="" />
